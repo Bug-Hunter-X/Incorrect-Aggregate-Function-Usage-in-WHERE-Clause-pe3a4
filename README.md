@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries involving the misuse of aggregate functions within the WHERE clause. The provided example shows how attempting to filter rows based on the average salary directly in the WHERE clause leads to an error. The solution provides the correct approach using the HAVING clause.
